@@ -1,0 +1,4 @@
+{
+  "mongoURI": "PLACE_YOUR_MONGOURI",
+  "jwtSecret": "asdfqwer"
+}
